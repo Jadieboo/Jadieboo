@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jade-Sale
+- 👋 Hi, I’m Jade or you can call me Jadie.
 - 👀 I’m interested in books, music, games and of course the obvious, coding! 
 - 🌱 I’m currently learning ... I'm new to coding, I have just finished learning the basics of HTML & CSS. I want to explore javascript next and also dive into some more advanced CSS. I'm a huge visual person and so far CSS really excites me.
 - 💞️ I’m looking to collaborate on websites, mobile apps and games. 
